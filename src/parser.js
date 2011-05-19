@@ -1,5 +1,5 @@
-/**
- * @version: 1.0 Alpha-1
+/**!
+ * @version: 1.0
  * @author: Coolite Inc. http://www.coolite.com/
  * @date: 2008-04-13
  * @copyright: Copyright (c) 2006-2008, Coolite Inc. (http://www.coolite.com/). All rights reserved.
